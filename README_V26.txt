@@ -1,0 +1,1 @@
+V26 International Professional — base V24. Ajouts: SEO canonical/hreflang/Open Graph/Organization JSON-LD, sitemap.xml, robots.txt, correction lang EN, liens EN, harmonisation Zaouia, Blida, première passe de traduction anglaise. Email conservé: contact@omtrading-dz.com tant que contact@omtrading-dz.com n’est pas confirmé opérationnel.

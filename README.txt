@@ -12,3 +12,5 @@ Modifications intégrées :
 
 QR CODE : à générer lorsque le site aura une URL publique définitive.
 Images actuelles : visuels de démonstration chargés en ligne. Elles peuvent être remplacées par vos propres photos dans le CSS.
+
+V21 : amélioration visuelle des fiches ALPHA STONE avec galeries produits issues des assets existants, catalogue visuel et responsive.
